@@ -18,7 +18,7 @@ export function Contact() {
          ¿Listo para reparar tu joystick o auricular? ¡Contáctanos hoy mismo para programar una reparación o hacer una consulta! 
          Estamos aquí para responder a todas tus preguntas y ayudarte en lo que necesites. No dejes que los problemas con tu equipo de juego te detengan. 
          ¡Deja que el equipo de expertos te ayude a volver al juego!
-         Solo debes presionar alguno de los botones que dicen &quotCotizar&quot y el mismo abrirá una conversación en wsp para contactarnos.
+         Solo debes presionar alguno de los botones que dicen &quot;Cotizar&quot; y el mismo abrirá una conversación en wsp para contactarnos.
         </Typography>
         <QuoteBtn title="Cotizar Reparación" classCustom="mx-auto mt-6 flex justify-center items-center gap-3"/>
       </div>
