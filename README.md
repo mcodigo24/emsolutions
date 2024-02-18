@@ -1,6 +1,6 @@
 # EM Gaming Solutions
 
-## Tecnologies
+## Technologies
 
 - NextJs
 - Tailwindcss
